@@ -1,0 +1,53 @@
+html {
+    font-family: Avenir, Helvetica, sans-serif;
+}
+body {
+    background-color:#000;
+}
+
+h1 {
+    font-family: Avenir, sans-serif;
+    font-size: 4rem; 
+    font-weight: bold;
+    color: #FFFAFA;
+}
+
+h2 {
+    font-family: Avenir, sans-serif;
+    font-size: 1.5rem; 
+    font-weight: bold;
+    color: #FFFAFA;
+}
+
+p,
+li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #FFFAFA;
+}
+
+h1 + p {
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    color: #FFFAFA;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+hr {
+    border: solid 2px #000;
+    color: #7FFFD4;
+}
+
+ul {
+    background-color:#DDA0DD;
+ 
+    font-weight:light;
+    
+}
